@@ -49,7 +49,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'jquery-rails'
-gem 'bootstrap'
+gem 'bootstrap', '>= 5.0.0'
 gem 'cloudinary'
 gem 'stripe'
 
